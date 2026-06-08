@@ -1,0 +1,312 @@
+Household Questionnaire
+
+Region (ADM1): ________________
+
+Department (ADM2): ________________
+
+Community (ADM3): ________________
+
+Village: ________________
+
+Village GPS Coordinates: ________________
+
+Household ID: ________________
+
+Section 1
+
+1.  How many boys under the age of 19 inclusive are you the guardian of?
+    (If zero end and find another household):
+
+2.  Number of people in the household:
+
+3.  Which activities do your boys perform as part of their Quranic
+    education? (select all that apply)
+
+-   Praying five times a day
+
+-   Fasting
+
+-   Asking for food alms
+
+-   Asking for money alms
+
+-   Cultivating
+
+-   Doing household tasks for the marabout
+
+-   Memorising the Quran
+
+-   Reciting (orally) Quran
+
+-   Reciting (writing) Quran
+
+-   Reading Quran
+
+    1.  Which activities do you think boys should perform as part of a
+        Quranic education? (select all that apply)
+
+-   Praying five times a day
+
+-   Fasting
+
+-   Asking for food alms
+
+-   Asking for money alms
+
+-   Cultivating
+
+-   Doing household tasks for the marabout
+
+-   Memorising the Quran
+
+-   Reciting (orally) Quran
+
+-   Reciting (writing) Quran
+
+-   Reading Quran
+
+Section 2
+
+To only be asked if at least one boy from the household being surveyed
+has been sent to a traditional Quranic school and lives there. Fill a
+row for each boy that has been sent. (Add additional rows if needed).
+
+[TABLE]
+
+[TABLE]
+
+  --------------------------------------------------------------------------------------------------------------------------
+             What                                   2.27 Is your boy    Has your                                     
+          support do                               supported by other  boy(s) ever                                   
+          you provide                                members of the   reported that                                  
+            to your                                  family during         the                                       
+            boy(s)                                 their stay at the   marabout(s)                                   
+          during his                                    school?        does any of                                   
+          stay at the                                                      the                                       
+            school?                                                    following?                                    
+  ------- ----------- --------- ---------- ------- ------------------ ------------- ------------ --------- --------- -------
+   Child     2.23     2.24 Food    2.25     2.26                          2.28       2.29 Stops   2.30 Is    2.31     2.32
+    ID     Financial   support   Clothing   Other                       Restricts    them from    violent  Demands a  Other
+            support                and                                    their      contacting   towards   certain  
+                                 blankets                               movement        you        them    about of  
+                                                                                                             money   
+                                                                                                             from    
+                                                                                                            begging  
+
+     1                                                                                                               
+
+     2                                                                                                               
+
+     3                                                                                                               
+
+     4                                                                                                               
+
+    5+                                                                                                               
+  --------------------------------------------------------------------------------------------------------------------------
+
+Section 3
+
+How many people do you know that fit in each of these categories? By
+‘know’ we mean by name and by sight and they know you by name and sight
+and have had a conversation with in person/phone in the last year.
+
+  -----------------------------------------------------------------------
+  Category                                        People you   People in
+                                                  know           this
+                                                               household
+  ----------------------------------------------- ----------- -----------
+  3.1 Boys enrolled in traditional Quranic                    
+  schools                                                     
+
+  3.2 Boys living in traditional Quranic schools              
+
+  3.3 People named Mahamadou                                  
+
+  3.4 People named Oumarou                                    
+
+  3.5 People named Abdoulaye                                  
+
+  3.6 People named Boubacar                                   
+
+  3.7 People admitted to hospital in the last                 
+  year                                                        
+
+  3.8 People who farm cassava                                 
+
+  3.9 People who farm rice                                    
+
+  3.10 People who farm cowpea                                 
+
+  3.11 People who farm peanuts                                
+
+  3.12 People who farm seaseme                                
+  -----------------------------------------------------------------------
+
+Section 4
+
+4.1 Have you been affected by natural hazards?
+
+-   Yes
+
+-   No
+
+4.1a Have you been affected by natural hazards?
+
+-   Flooding (seasonal)
+
+-   Flooding (flash-floods)
+
+-   Riverbank erosion and/or land loss
+
+-   Landslides
+
+-   Drought
+
+-   Landslides
+
+-   Heatwave/heat stress/extreme heat
+
+-   Extreme cold
+
+-   Earthquake
+
+-   Tornado
+
+-   Wildfire
+
+-   Sinkholes
+
+-   Desertification
+
+-   Other __________________________
+
+4.2 Has your household been affected by conflict by armed groups?
+
+-   Yes
+
+-   No
+
+Section 5
+
+Choose a number between 0 and 10 to represent which of the following
+would be helpful and support you? On the scale 0 represents not at all
+helpful, 5 being neither helpful or not and 10 being most helpful.
+
+  -----------------------------------------------------------------------
+                                                             Usefulness
+  --------------------------------------------------------- -------------
+          5.1 More Quranic schools in your village          
+
+              5.2 More Marabout in your village             
+
+        5.3 A list of marabout closer to your village       
+
+  5.4 Information on the total cost for being in a Quranic  
+                           school                           
+
+          5.5 Financial support from the government         
+  -----------------------------------------------------------------------
+
+Section 6
+
+6.1 Sex: 6.2 Age: ______________ 6.3 Occupation: _______________
+
+-   Male
+
+-   Female
+
+6.2a How many separate fields do you own? ___________________ How many
+hectares of land you own? ___________________
+
+6.2b If occupation is farmer, which of these crops do you grow?
+
+-   Cassava
+
+-   Rice
+
+-   Groundnut
+
+-   Seasame
+
+-   Bambara groundnuts
+
+-   Sorghum
+
+-   Millet
+
+-   Wheat
+
+-   Other
+
+6.3d What are the other sources of income of the head of the household?
+
+-   Trading
+
+-   Masonry
+
+-   Blacksmith
+
+-   Garment Making
+
+-   Welding
+
+-   Carpentry
+
+-   Woodworking
+
+-   Auto Repair
+
+-   Radio Repair
+
+-   Television Repair
+
+-   Telephone Repair
+
+-   Other
+
+6.4 Marital Status:
+
+-   Single
+
+-   Married
+
+-   Divorced
+
+-   Widowed
+
+6.5 Languages spoken in the household:
+
+-   Songhai/Zarma
+
+-   Tamashek
+
+-   Hausa
+
+-   Fulfulde
+
+-   Arabe
+
+-   Kanouri
+
+-   Gourmantchéma;
+
+-   Boudouma
+
+6.6 Are there any barriers to accessing education for your children,
+such as school fees or distance to schools?
+
+-   Yes
+
+-   No
+
+6.7 Are you always able to access clean water?
+
+-   Yes
+
+-   No
+
+6.8 Is there always adequate food for the household?
+
+-   Yes
+
+-   No

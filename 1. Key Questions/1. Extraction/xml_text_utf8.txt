@@ -1,0 +1,365 @@
+﻿Household 
+Questionnaire
+Region
+ (ADM1)
+: 
+________________
+Department
+ (ADM2)
+: 
+________________
+Community (ADM3)
+: 
+________________
+Village: 
+________________
+Village GPS Coordinates: 
+________________
+Household ID: 
+________________
+Section 1 
+How many boys under the age of 19
+ inclusive
+are
+ you 
+the guardian of
+?
+ (If zero
+ end and find another household)
+: 
+Number of people in the household: 
+Which activities do you
+r
+ boys perform as part of their 
+Quranic
+education? (select all that 
+apply
+) 
+Praying five times a day
+Fasting
+Asking for food alms
+Asking for money alms
+Cultivating
+Doing household tasks for the 
+m
+arabout
+Memorising the Quran
+Reciting (orally) Quran 
+Reciting (writing) Quran
+Reading Quran
+Which activities do you think boys should perform as part of a 
+Quranic
+education? (select all that apply) 
+Praying five times a day
+Fasting
+Asking for food alms
+Asking for money alms
+Cultivating
+Doing household tasks for the 
+m
+arabout
+Memorising the Quran
+Reciting (orally) Quran 
+Reciting (writing) Quran
+Reading Quran
+Section 2
+To only be asked if at least one boy from the household being surveyed has been sent to a
+ traditional
+Quranic
+ school
+ and lives there
+. 
+Fill a row for each 
+boy
+ that has be
+en sent
+. (Add additional rows if needed). 
+Child ID
+2.1 Age
+2.2 Order of boy with 1 being the eldest?
+2.3 At what age did you enrol them?
+2.4
+Do you know
+ the 
+full 
+name of the 
+m
+arabout?
+2.5 Where is the Quranic school located? (Enough detail to be able to locate)
+2.6 How many times has the boy visited home in the last year?
+2.7 How many times have you visited the Quranic school in the last year?
+2.8 Do you pay any fees? If yes how much annually (optional)? (fr. CFA)
+ ***
+2.9 
+How many other children do you know are with th
+is
+m
+arabout?
+ Quadratic??
+2.
+1
+0 How many other 
+marabout
+teach with this 
+m
+arabout?
+2.1
+1
+Do you think the 
+m
+arabout has enough financially to look after the child?
+2.1
+2
+Does the child send back any money? If yes how much per year (optional)?
+(fr. CFA)
+1
+2
+3
+4
+5+
+Which of these motivated you to enrol your boy in th
+is
+ school? Tick all that apply
+Child ID
+2.12 Renowned name of the marabout
+2.13 
+Convinced by the marabout?
+2.14 
+B
+y recommendation of friends and family
+2.15 
+Little or no payment needed
+2.16 Proximity of the school
+ (This is unclear)
+2.17 Dissatisfaction with public schools
+2.18 Only wanting religious education?
+2.
+19 It was the boy’s choice
+2.20 
+Less mouths to feed at home
+2
+.21
+Boy is troublesome
+2.22
+Other
+1
+2
+3
+4
+5+
+What support do you provide to 
+your boy(s) during his stay at the school?
+2.27 
+Is your boy supported by other members of the family during their stay at the school?
+Has your boy(s) ever reported that the marabout(s) does any of the following?
+Child ID
+2.23 
+Financial support
+2.24 
+Food support
+2.25 Clothing and blankets
+2.26 
+Other
+2.28 
+Restricts their movement
+2.
+29
+Stops them from contacting you
+2.3
+0
+Is violent towards them
+2.3
+1
+Demands a certain about of money from begging
+2.3
+2
+ Other
+1
+2
+3
+4
+5+
+Section 3
+How many people do you know that fit in each of these categories? By ‘know’ we mean by name and by sight and they know you by name and sight
+ and have had a conversation 
+with in
+ person/phone in the last year.
+Category 
+People you know
+People in this household 
+3.1 Boys enrolled in traditional 
+Quranic
+schools 
+3.2 
+Boys living in 
+traditional Quranic schools
+3.3 People named Mahamadou 
+3.4 People named 
+Oumarou
+3.5 People named Ab
+doulaye
+3.6
+ People named Bo
+ubacar
+3.
+7
+ People admitted to hospital in the last year 
+3.
+8
+ People who farm cassava
+3.9 People who farm rice
+3.10 People who 
+farm
+ cowpea
+3.11 People who farm
+ peanuts
+3.12 People who farm 
+seaseme
+Section 4
+4.
+1
+ Have you been affected by natural 
+hazards
+? 
+Yes
+No
+4.1
+a
+ Have you been affected by natural hazards? 
+Flooding (seasonal)
+Flooding (
+flash-floods
+)
+Riverbank erosion and/or land loss
+Landslides
+Drought
+Landslides
+Heatwave/heat stress/extreme heat
+Extreme cold
+Earthquake
+Tornado
+Wildfire
+Sinkholes
+Desertification
+Other __________________________
+4.
+2
+Has your household
+ been affected by conflict 
+by 
+armed groups?
+Yes
+No
+Section 5
+Choose a number between 0 and 10 to represent
+ which of the following would be helpful and support you? 
+On the scale 0
+ represents not at all helpful, 
+5
+ being neither helpful or not and 
+10
+ being 
+most
+ helpful.
+Usefulness
+5.1 More 
+Quranic
+ schools in 
+your 
+village
+5.2 More Marabout in 
+your 
+village
+5.
+3
+ A list of 
+marabout
+ closer to 
+your
+ village
+5.
+4
+ Information on the total cost for being in a Quranic school
+5.5 Financial support from the government
+Section 6
+6.
+1
+Sex
+:
+6.2 Age: 
+______________
+6.3 Occupation: _______________
+Male
+Female
+6.
+2
+a
+How many separate fields do you own? ___________________ 
+H
+ow many 
+hectares
+ of land you own
+?
+ ___________________
+6.
+2b
+If occupation is farmer
+, which of these crops do you grow?
+Cassava
+Rice
+Groundnut
+Seas
+ame
+Bambara groundnuts
+Sorghum
+Millet
+Wheat
+Other
+6.3d What are the other sources of income 
+of the head of the household?
+Trading
+Masonry
+Blacksmith
+Garment Making
+Welding
+Carpentry
+Woodworking
+Auto Repair
+Radio Repair
+Television Repair
+Telephone Repair
+Other
+6.4 
+Marital Status: 
+Single
+Married
+Divorced
+Widowed
+6.5 
+Languages spoken in the household: 
+Songhai
+/Zarma
+Tamashek
+Hausa
+Fulfulde
+Arabe
+Kanouri
+Gourmantchéma
+;
+Boudouma
+6.6
+Are there any barriers to accessing education
+ for your children
+, such as school fees or distance to schools?
+Yes
+No
+6.7
+Are you always able to access
+ clean water?
+Yes
+No
+6.8
+Is there always adequate food for the household
+?
+Yes
+No

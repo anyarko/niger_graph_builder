@@ -1,0 +1,5 @@
+library(officer)
+doc <- read_docx("../Key Vulnerability Questions.docx")
+content <- docx_summary(doc)
+table_cells <- subset(content, content_type == "table cell")
+write.csv(table_cells, "tables.csv", row.names=FALSE)

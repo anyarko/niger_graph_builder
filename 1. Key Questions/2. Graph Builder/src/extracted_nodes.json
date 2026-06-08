@@ -1,0 +1,534 @@
+{
+  "project_nodes": [
+    {
+      "node_id": "1.1",
+      "type": "standard_node",
+      "question_text": "How many boys under the age of 19 inclusive are you the guardian of?",
+      "allowed_states": [
+        "Integer"
+      ],
+      "implied_edges": [
+        "if 0, terminate survey"
+      ]
+    },
+    {
+      "node_id": "1.2",
+      "type": "standard_node",
+      "question_text": "Number of people in the household:",
+      "allowed_states": [
+        "Integer"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "1.3",
+      "type": "standard_node",
+      "question_text": "Which activities do your boys perform as part of their Quranic education? (select all that apply)",
+      "allowed_states": [
+        "Praying five times a day",
+        "Fasting",
+        "Asking for food alms",
+        "Asking for money alms",
+        "Cultivating",
+        "Doing household tasks for the marabout",
+        "Memorising the Quran",
+        "Reciting (orally) Quran",
+        "Reciting (writing) Quran",
+        "Reading Quran"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "1.4",
+      "type": "standard_node",
+      "question_text": "Which activities do you think boys should perform as part of a Quranic education? (select all that apply)",
+      "allowed_states": [
+        "Praying five times a day",
+        "Fasting",
+        "Asking for food alms",
+        "Asking for money alms",
+        "Cultivating",
+        "Doing household tasks for the marabout",
+        "Memorising the Quran",
+        "Reciting (orally) Quran",
+        "Reciting (writing) Quran",
+        "Reading Quran"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "SEC2_CHILD_ARRAY",
+      "type": "template_node",
+      "description": "Dynamic array repeating per child. To only be asked if at least one boy from the household being surveyed has been sent to a traditional Quranic school and lives there.",
+      "downstream_action_required": "AGGREGATION",
+      "template_questions": [
+        {
+          "sub_id": "2.1",
+          "question_text": "Age",
+          "allowed_states": [
+            "Integer"
+          ]
+        },
+        {
+          "sub_id": "2.2",
+          "question_text": "Order of boy with 1 being the eldest?",
+          "allowed_states": [
+            "Integer"
+          ]
+        },
+        {
+          "sub_id": "2.3",
+          "question_text": "At what age did you enrol them?",
+          "allowed_states": [
+            "Integer"
+          ]
+        },
+        {
+          "sub_id": "2.4",
+          "question_text": "Do you know the full name of the marabout?",
+          "allowed_states": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "sub_id": "2.5",
+          "question_text": "Where is the Quranic school located? (Enough detail to be able to locate)",
+          "allowed_states": [
+            "Text"
+          ]
+        },
+        {
+          "sub_id": "2.6",
+          "question_text": "How many times has the boy visited home in the last year?",
+          "allowed_states": [
+            "Integer"
+          ]
+        },
+        {
+          "sub_id": "2.7",
+          "question_text": "How many times have you visited the Quranic school in the last year?",
+          "allowed_states": [
+            "Integer"
+          ]
+        },
+        {
+          "sub_id": "2.8",
+          "question_text": "Do you pay any fees? If yes how much annually (optional)? (fr. CFA)",
+          "allowed_states": [
+            "Boolean/Integer"
+          ]
+        },
+        {
+          "sub_id": "2.9",
+          "question_text": "How many other children do you know are with this marabout?",
+          "allowed_states": [
+            "Integer"
+          ]
+        },
+        {
+          "sub_id": "2.10",
+          "question_text": "How many other marabout teach with this marabout?",
+          "allowed_states": [
+            "Integer"
+          ]
+        },
+        {
+          "sub_id": "2.11",
+          "question_text": "Do you think the marabout has enough financially to look after the child?",
+          "allowed_states": [
+            "Yes",
+            "No",
+            "Unsure"
+          ]
+        },
+        {
+          "sub_id": "2.12",
+          "question_text": "Does the child send back any money? If yes how much per year (optional)? (fr. CFA)",
+          "allowed_states": [
+            "Boolean/Integer"
+          ]
+        },
+        {
+          "sub_id": "2.13",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Renowned name of the marabout",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.14",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Convinced by the marabout?",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.15",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - By recommendation of friends and family",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.16",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Little or no payment needed",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.17",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Proximity of the school",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.18",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Dissatisfaction with public schools",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.19",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Only wanting religious education?",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.20",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - It was the boy’s choice",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.21",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Less mouths to feed at home",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.22",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Boy is troublesome",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.23",
+          "question_text": "Which of these motivated you to enrol your boy in this school? - Other",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.24",
+          "question_text": "What support do you provide to your boy(s) during his stay at the school? - Financial support",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.25",
+          "question_text": "What support do you provide to your boy(s) during his stay at the school? - Food support",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.26",
+          "question_text": "What support do you provide to your boy(s) during his stay at the school? - Clothing and blankets",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.27",
+          "question_text": "What support do you provide to your boy(s) during his stay at the school? - Other",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.28",
+          "question_text": "Is your boy supported by other members of the family during their stay at the school?",
+          "allowed_states": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "sub_id": "2.29",
+          "question_text": "Has your boy(s) ever reported that the marabout(s) does any of the following? - Restricts their movement",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.30",
+          "question_text": "Has your boy(s) ever reported that the marabout(s) does any of the following? - Stops them from contacting you",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.31",
+          "question_text": "Has your boy(s) ever reported that the marabout(s) does any of the following? - Is violent towards them",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.32",
+          "question_text": "Has your boy(s) ever reported that the marabout(s) does any of the following? - Demands a certain amount of money from begging",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        },
+        {
+          "sub_id": "2.33",
+          "question_text": "Has your boy(s) ever reported that the marabout(s) does any of the following? - Other",
+          "allowed_states": [
+            "Boolean/Checkbox"
+          ]
+        }
+      ]
+    },
+    {
+      "node_id": "4.1",
+      "type": "standard_node",
+      "question_text": "Have you been affected by natural hazards?",
+      "allowed_states": [
+        "Yes",
+        "No"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "4.1a",
+      "type": "standard_node",
+      "question_text": "Have you been affected by natural hazards? (Specific Hazards)",
+      "allowed_states": [
+        "Flooding (seasonal)",
+        "Flooding (flash-floods)",
+        "Riverbank erosion and/or land loss",
+        "Landslides",
+        "Drought",
+        "Heatwave/heat stress/extreme heat",
+        "Extreme cold",
+        "Earthquake",
+        "Tornado",
+        "Wildfire",
+        "Sinkholes",
+        "Desertification",
+        "Other"
+      ],
+      "implied_edges": [
+        "Conditional on 4.1 == Yes"
+      ]
+    },
+    {
+      "node_id": "4.2",
+      "type": "standard_node",
+      "question_text": "Has your household been affected by conflict by armed groups?",
+      "allowed_states": [
+        "Yes",
+        "No"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "5.1",
+      "type": "standard_node",
+      "question_text": "More Quranic schools in your village",
+      "allowed_states": [
+        "Integer (0-10)"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "5.2",
+      "type": "standard_node",
+      "question_text": "More Marabout in your village",
+      "allowed_states": [
+        "Integer (0-10)"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "5.3",
+      "type": "standard_node",
+      "question_text": "A list of marabout closer to your village",
+      "allowed_states": [
+        "Integer (0-10)"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "5.4",
+      "type": "standard_node",
+      "question_text": "Information on the total cost for being in a Quranic school",
+      "allowed_states": [
+        "Integer (0-10)"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "5.5",
+      "type": "standard_node",
+      "question_text": "Financial support from the government",
+      "allowed_states": [
+        "Integer (0-10)"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.1",
+      "type": "standard_node",
+      "question_text": "Sex:",
+      "allowed_states": [
+        "Male",
+        "Female"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.2",
+      "type": "standard_node",
+      "question_text": "Age:",
+      "allowed_states": [
+        "Integer"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.3",
+      "type": "standard_node",
+      "question_text": "Occupation:",
+      "allowed_states": [
+        "Text"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.2a",
+      "type": "standard_node",
+      "question_text": "How many separate fields do you own?",
+      "allowed_states": [
+        "Integer"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.2a_hectares",
+      "type": "standard_node",
+      "question_text": "How many hectares of land you own?",
+      "allowed_states": [
+        "Numeric"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.2b",
+      "type": "standard_node",
+      "question_text": "If occupation is farmer, which of these crops do you grow?",
+      "allowed_states": [
+        "Cassava",
+        "Rice",
+        "Groundnut",
+        "Seasame",
+        "Bambara groundnuts",
+        "Sorghum",
+        "Millet",
+        "Wheat",
+        "Other"
+      ],
+      "implied_edges": [
+        "Conditional on 6.3 == Farmer"
+      ]
+    },
+    {
+      "node_id": "6.3d",
+      "type": "standard_node",
+      "question_text": "What are the other sources of income of the head of the household?",
+      "allowed_states": [
+        "Trading",
+        "Masonry",
+        "Blacksmith",
+        "Garment Making",
+        "Welding",
+        "Carpentry",
+        "Woodworking",
+        "Auto Repair",
+        "Radio Repair",
+        "Television Repair",
+        "Telephone Repair",
+        "Other"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.4",
+      "type": "standard_node",
+      "question_text": "Marital Status:",
+      "allowed_states": [
+        "Single",
+        "Married",
+        "Divorced",
+        "Widowed"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.5",
+      "type": "standard_node",
+      "question_text": "Languages spoken in the household:",
+      "allowed_states": [
+        "Songhai/Zarma",
+        "Tamashek",
+        "Hausa",
+        "Fulfulde",
+        "Arabe",
+        "Kanouri",
+        "Gourmantchéma",
+        "Boudouma"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.6",
+      "type": "standard_node",
+      "question_text": "Are there any barriers to accessing education for your children, such as school fees or distance to schools?",
+      "allowed_states": [
+        "Yes",
+        "No"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.7",
+      "type": "standard_node",
+      "question_text": "Are you always able to access clean water?",
+      "allowed_states": [
+        "Yes",
+        "No"
+      ],
+      "implied_edges": []
+    },
+    {
+      "node_id": "6.8",
+      "type": "standard_node",
+      "question_text": "Is there always adequate food for the household?",
+      "allowed_states": [
+        "Yes",
+        "No"
+      ],
+      "implied_edges": []
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+Questionnaire ménage
+POUR LE RECENSEUR(SE) (
+seulement)  
+Date
+ : 
+_________   
+Région (ADM1) : 
+________________
+Département (ADM2) : 
+________________
+Commune /Groupement
+(ADM3) : 
+________________
+Village /quartier/Tribu 
+: 
+________________
+Coordonnées GPS du village
+: 
+________________
+Ménage 
+ID:
+________________ (Cf. Formulaire de consentement)
+Section 1 
+Vous êtes tuteur de combien de garçons de moins de 19 ans inclus ? (Si aucun, l’entretien est terminé et passer à un autre ménage)
+ ___________________
+Nombre de personnes dans le ménage :
+__________________
+1.3 
+Avez-vous des garçons inscrits dans des écoles coraniques traditionnelles qui vivent avec le (
+s)  maitre
+ (s) coranique(s) ? (Si non sautez section 2)
+Oui
+Non
+1.4 
+Quelles pratiques vos garçons talibé pratiquent dans le cadre d'une éducation coranique
+traditionnelle ? (Sélectionnez tout ce qui s'y rapporte). 
+Réciter oralement le Coran
+Écrire les versets du Coran
+Mémoriser le Coran
+Lire le Coran
+Mendier de la nourriture
+Mendier de l'argent
+Faire les petits travaux ménagers pour le marabout
+Aller chercher de l’eau
+Aller chercher du bois
+Garder le bétail / les animaux
+Utiliser des enfants comme main-d’œuvre dans les rizières ou les exploitations agricoles
+Autre ______________
+1.5 
+Selon vous, quelles pratiques les garçons talibé devraient pratiquer dans le cadre d'une éducation coranique
+traditionnelle ? (Sélectionnez tout ce qui s'y rapporte)
+)
+Réciter oralement le Coran
+Ecrire les versets du Coran
+Mémoriser le Coran
+Lire le Coran
+Mendier de la nourriture
+Mendier de l'argent
+Faire les petits travaux ménagers pour le marabout
+Aller chercher de l’eau
+Aller chercher du bois
+Garder le bétail / les animaux
+Utiliser des enfants comme main-d’œuvre dans les rizières ou les exploitations agricoles
+Autre ______________
+Section 2
+A demander uniquement si au moins un garçon du ménage enquêté a été envoyé dans une école coranique traditionnelle et vit avec le maître coranique. Remplir une ligne pour chaque garçon envoyé dans ces écoles. (Ajoutez des lignes supplémentaires si nécessaire). 
+Enfant
+ID
+2.1 Âge
+2.2 Rang du garçon dans la fratrie (1 étant l’aîné) ?
+2.3 A quel âge les avez-vous inscrits à l’école coranique ?
+2.4 Connaissez-vous le nom complet du marabout ?
+2.5 Où est située l’école coranique ? (Assez de détails pour pouvoir localiser)
+2.6 Combien de fois le garçon est-il revenu chez lui au cours de la dernière année ?
+2.7 Combien de fois avez-vous visité l'école coranique au cours de l'année dernière ?
+2.8 Payez-vous des frais ? Si oui, combien par an ? (
+fr.
+ CFA) ; 
+2.9 À votre connaissance, combien d’enfants étudie avec le marabout ?
+2.10 À votre connaissance, combien d’autres marabout enseigne avec ce marabout ?
+2.11 Pensez-vous que le marabout a suffisamment d'argent pour s’occuper de l'enfant ?
+2.12 Votre enfant vous envoie-t-il de l’argent ? Si oui, combien par an ? (
+fr.
+ CFA) ; Facultative
+1
+.
+2
+3
+4
+Lequel de ces éléments vous a motivé à inscrire votre garçon dans cette école ? Cochez tout ce qui s'applique.
+Enfant 
+ID
+2.1
+3
+ Nom connu du marabout
+2.1
+4
+ J'ai parlé avec le marabout et il m'a convaincu ?
+2.1
+5
+ Sur recommandation des amis et de la famille
+2.1
+6
+Peu ou pas de paiement nécessaire
+2.1
+7
+ Proximité de l'école
+2.1
+8
+Mécontentement à l'égard des écoles publiques
+2.1
+9
+ Vous souhaitez uniquement une éducation religieuse ?
+2.
+20
+C'était le choix du garçon
+2.2
+1
+ Moins de bouches à nourrir à la maison
+2.2
+2
+ Le garçon est gênant
+2.2
+3
+ Autre
+1
+2
+3
+Quel soutien apportez-vous à votre garçon pendant son parcours scolaire à l'école coranique ?
+2.2
+8
+ Est-ce que votre garçon est soutenu par d’autres membres de la famille pendant son séjour à l’école ?
+Votre garçon a-t-il déjà dit que le marabout faisait l'une des choses suivantes ?
+ID
+2.2
+4
+ Soutien financier
+2.2
+5
+ Soutien alimentaire
+2.2
+6
+Vêtements et couvertures
+2.2
+7
+ Autre 
+2.2
+9
+ Restreint leur mouvement
+2.
+30 
+L’empêche de vous contacter
+2.3
+1
+ Est violent envers lui
+2.3
+2
+ Exige une certaine somme d'argent provenant de la mendicité
+2.3
+3
+ Autre
+1
+2
+3
+4
+5+
+Section 3
+Combien de personnes connaissez-vous qui correspondent à chacune de ces catégories ? Par « connaître », nous entendons connaître une personne de nom et de vue, qu’elle vous connaisse également de nom et de vue, et avoir eu une conversation avec elle en personne ou par téléphone au cours de l’année écoulée.
+Catégorie
+Personnes que vous connaissez
+Personnes en dehors de votre département
+Personnes dans ce ménage
+3.1 Garçons inscrits dans des écoles coraniques traditionnelles
+3.2 Garçons qui vivent dans des écoles coraniques traditionnelles
+3.3 Les personnes portant le prénom Mahamadou
+3.4 Les personnes portant le prénom Oumarou
+3.5 Les personnes portant le prénom Boubacar
+3.6 Les personnes portant le prénom 
+Aisha
+3.7 Les personnes portant le prénom Fatima
+3.8 Les personnes portant le prénom Amina
+3.9 Des cultivateurs de manioc
+3.10 Des cultivateurs de riz
+3.11 Des cultivateurs de niébé (haricot)
+3.12 Des cultivateurs d’arachide
+Section 4
+4.1 Avez-vous été touché par l'une de ces catastrophes naturelles ? (Cochez toutes les réponses applicables)
+Inondations (saisonnière)
+Inondations soudaines (crues du fleuve)
+Glissements de terrain
+Sécheresse
+Canicule/stress thermique/chaleur extrême
+Froid extrême
+Tornade
+Incendies / Feux de foret 
+Dolines (effondrement du sol)
+Désertification
+Autre __________________________
+4.2 Votre foyer a-t-il été directement touché par un conflit armé ou une menace sécuritaire ? 
+Oui
+Non
+Section 5
+Choisissez un nombre entre 0 et 10 pour représenter lequel des éléments suivants serait utile et vous aiderait pour obtenir une éducation coranique pour votre enfant. Sur l'échelle 0 signifie pas du tout utile, 5 signifie ni utile ou pas et 10 signifie très utile.
+Utilité
+5.1 Plus d'écoles coraniques dans les villages
+5.2 Plus des marabouts dans les villages
+5.3 Une liste des marabouts plus proches aux villages
+5.4 Informations sur le coût total pour être dans une école coranique
+5.5 Soutien financier du gouvernement
+Section 6
+6.1 Sexe du chef de ménage :
+6.2 Âge : _________
+6.3 Profession : ___________________
+Masculin
+Féminin
+6.3a Combien de champ de culture possédez-vous ? _________ Quelle est la superficie totale estimée de ces champs en hectare ? ________________
+6.3b Si votre profession est agriculteur, laquelle de ces cultures cultivez-vous ? (Cochez toutes les réponses applicables)
+Manioc
+Riz
+Niébé (Haricot)
+Arachide
+Sésame
+Voandzou
+Sorgho
+Mil
+Blé
+Autre
+6.3c 
+Autres sources de revenu du chef de ménage ? (Cochez toutes les réponses applicables)
+Commerce 
+Pêcherie
+Artisanat 
+Maçonnerie 
+Forge 
+Couture  
+Soudure  
+Menuiserie bois 
+Réparateur auto
+Réparateur radio 
+Réparateur Télévision 
+Réparateur Téléphone 
+Autres
+6.4 
+État civil. Etes-vous 
+: 
+Célibataire
+Marié
+Divorcé
+Veuf/Veuve
+6.5 
+Langues parlées au sein du ménage (Cochez toutes les réponses applicables
+):
+Songhai/Zarma
+Tamashek
+Hausa
+Fulfulde
+Arabe
+Kanouri
+Gourmantchéma
+;
+Boudouma
+Toubou
+6.6 
+Est-ce qu'il y a des obstacles à l'accès à l'éducation coranique pour vos enfants, tels que les frais de scolarité ou la distance aux 
+écoles
+?
+Oui
+Non
+S
+i oui, 
+lesquels :
+Frais de scolarité
+Distances aux écoles
+Manque de marabout
+Autre
+6.7 
+Avez-vous toujours accès à l’eau potable
+?
+Oui
+La plupart du temps
+Parfois
+Rarement
+Non
+6.8 
+Est-ce qu’il y a toujours assez de nourriture pour le ménage 
+?
+Oui
+La plupart du temps
+Parfois
+Rarement
+Non
